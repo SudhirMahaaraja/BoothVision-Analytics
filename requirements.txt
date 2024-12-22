@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+opencv-python
+opencv-contrib-python
+numpy
+tensorflow
+keras
+matplotlib
+pandas
+scikit-learn
+dlib
+sqlalchemy
+sqlite3
+Pillow
+seaborn
+gunicorn
